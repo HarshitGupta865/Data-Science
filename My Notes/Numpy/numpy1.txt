@@ -1,0 +1,24 @@
+Top functions in numpy:
+
+1. np.array() - To create an array in numpy
+2. np.arange(start, stop, steps) - Similar to range() in python
+3. np.zero() - To create a zero matrix.
+4. np.ones() - To create matrix with all elements as 1
+5. np.linspace(start, stop, noofelements) - To create an evenly spaced no. of elements in an array from start to stop.
+6. np.random.rand(size of array/matrix) - To create an array / matrix of random nos. from 0 to 1.
+7. np.random.randn(size of array/matrix) - To create an array / matrix of random nos. from gaussian distribution or standard normal distribution.
+8. np.random.randint(start, stop, noofelements) - To create an array of random no. of elements between start to stop.
+9. arrayname.reshape(size of matrix) - To change the dimension of an array
+10. arrayname.shape - To know the dimension of an array
+11. arrayname.dtype - To know the data type of the elements in an array
+12. arrayname.max() - Returns the biggest element in an array. Same for min()
+13. arrayname.argsmax()  - Returns the position of biggest element in an array. Same for argsmin().
+
+14. np.max(), np.min(), np.sin(), np.sqrt(), np.exp() np.cos()......Similarly hundreds of functions are present in numpy to make your tasks easiler.
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+If you want to make a copy of an array in numpy, always use copy() to do it.
+
+arr[condition] returns array with only those values for which the condition is true.

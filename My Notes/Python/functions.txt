@@ -1,0 +1,19 @@
+Functions in python are of following types:
+
+1. Built-in functions
+2. User defined functions
+3. Recursive functions
+4. Lambda functions
+5. Extra - map(), reduce(), filter()
+
+--------> Lambda functions are anonymous functions. It can have multiple arguments and only has a one line expression.
+
+--------> map() is one of the most important function in python and is used to reduce line of codes.
+	Syntax:    map(function, iterable). Function is the type of function you want to use with any iterable. If the function require
+	N nos. of iterables then use N nos. of iterables with the function. Example if a function requires 3 iterables then the syntax becomes
+	map(function, iterable1, iterable2, iterable3)
+
+--------> filter(): Syntax --  filter(function, iterable). Here function should always return a boolean value. If the result of function is true only then
+	process takes place for that value of iterable. Moreover filter can only be used with those functions that can take only one iterable.
+
+-------> reduce() - Syntax -- reduce(function, iterable). reduce() is used to fold or reduce an iterable to a value. 

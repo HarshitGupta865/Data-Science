@@ -1,0 +1,33 @@
+Syntax to create a pandas series - pd.Series(data, index)
+---------------------------------------------------------------------------
+
+A dataframe is nothing but a collection of series
+A row series and a column series comes together to form a dataframe
+
+Syntax to create a pandas dataframe - pd.Dataframe(data, index, column)
+
+
+Important functions in pandas:
+
+df.drop('name') - To delete a row or a column . Add inplace=True for permanent deletion
+df.loc[] - To select rows in a dataframe by row name
+df.iloc[] - To select rows in a dataframe by index number
+df[condition] - Returns a dataframe for values showing up when condition is true.
+df.reset_index() - To reset the index of a dataframe.Add inplace=True for permanent changes.
+df.set_index() - To set a list or a column as index of  a dataframe
+df.dropna() - All those rows or columns with NaN values is dropped from dataframe.
+df.fillna() - To fill NaN values with any other value in a dataframe.
+df.groupby('name').mean()/max()/min()
+pd.concat([df1,df2,df3]) - To concatinate any no. of dataframes.
+pd.merge(df1,df2, how=" ", on=" ") - To merge two dataframes.
+df1.join(df2) - To join two dataframes
+df.head() - To get the first 5 rows of a dataframe
+df[" "].unique() - To get the list of unique elements in a row
+df[" "].nunique() - To get the no. of unique elements in a row
+df[" "].value_count() - To get the no. of occurence of elements in a column.
+df.apply() - To apply a common task for each element in a column
+df.sort_values(' ') - To sort a dataframe based on any column
+
+Pandas can form datafame from many types of data sources such as CSV, Excel, HTML, SQL
+
+

@@ -1,0 +1,30 @@
+Important functions of matplotlib
+
+-------------------------------------
+Direct way of creating graph
+-----------------------------------------
+plt.plot(x,y) - To plot a graph for x axis against y-axis
+plt.xlabel(" ") - Label for x axis
+plt.ylabel(" ") - Label for y axis
+plt.title(" ") - Title of the graph
+
+To create subplots
+plt.subplot(noofrows, no.ofcolumns, plotno)
+
+----------------------------------------------
+Object oriented way of creating graph
+----------------------------------------------
+fig = plt.figure()
+axes = fig.add_axes([left, bottom, width, height])
+axes.plot(x,y)
+axes.set_xlabel(" ")
+axes.set_ylabel(" ")
+axes.set_title(" ")
+
+To create subplots
+fig.axes = plt.subplots(nrows=, ncols=) - Here axes is nothing but list of all plots
+
+plt.subplots(nrows=, ncols=, figsize=(,), dpi=, )
+axes.plot(x,y,color="", linewidth=,alpha=,linestyle=,marker=, markersize=,markerfacecolor=,markeredgewidth=, 
+		markeredgecolor=, )
+
