@@ -1,0 +1,30 @@
+Statistics is the science of collecting, organising and analysing data. It helps to make better decisions from the data we have.
+
+Data can be anything. It can be numbers, images, audio, words etc.
+
+Where do we get data from:
+----------------------------------
+
+This can be answered in two ways. 1. Organic/Process Data - Data that is formed naturally as a result of some process. Such processes generate
+massive amount of data often termed as big data.
+2. Designed data collection - Such data is designed to specifically answer some stated research objective. Such data is not huge and is restricted
+to the domain of its origin.
+
+Types of variable
+-----------------------
+
+1. Quantitative variable - Variables that represent amount or numbers and have ability to have any arithmetic operations performed on them.
+Two types - Quantitative continuous variable and quantitative discrete variable.
+
+2. Qualitative variable - Variables that often represent items / individuals into groups. It also has two types - qualitative ordinal variable and 
+qualitative nominal variable.  
+
+
+Categorical data vs Quantitative data
+-----------------------------------------------
+
+Best way to visualize categorical data - Bar chart
+Best way to visualize Quantitative data - Histogram
+
+
+ 

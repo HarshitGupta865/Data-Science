@@ -1,0 +1,79 @@
+Seaborn is used for data visualisation.
+
+------------------------
+Distribution Plots
+------------------------- 
+
+1. To make distribution plot (Used for univariate data)
+	sns.distplot(columnname, kde=, bins=)
+
+2. To make joint plot (Used for bivariate data)
+	sns.jointplot(x=x-axiscolumn, y=y-axiscolumn, data=dataframe)
+
+3. To make pair plot
+	sns.pairplot(dataframe, hue="Any categorical column")
+
+4. To make rug plot
+	sns.rugplot(columnname)
+
+------------------------
+Categorical Plots
+-----------------------
+
+1. To make bar plot
+	sns.barplot(x=, y=, data=, estimator=)
+
+2. To make countplot
+	sns.countplot(x="Categorical column", data=, )
+
+3. To make boxplot
+	sns.boxplot(x=x-axiscolumn, y=y-axiscolumn, data=dataframe, hue=,)
+
+4. To make violinplot
+	sns.violinplot(x=x-axiscolumn, y=y-axiscolumn, data=dataframe, jitter=,  hue=, split=,)
+
+5. To make factorplot
+	sns.factorplot(x=x-axiscolumn, y=y-axiscolumn, data=dataframe, kind=,)
+
+-----------------------
+Matrix Plot
+-----------------
+
+1. Heatmap
+	sns.heatmap(dataframe.corr(), annot=, cmap=, linecolor=, linewidth=,)
+
+2. Clustermap
+	sns.clustermap(dataframe, cmap=, standard_scale=1)
+
+
+------------------
+Grids
+-------------
+
+1. Pairgrid
+	g = sns.PairGrid(dataframe)
+	g.map(plt.scatter/plt.kdeplot/sns.distplot.......anything)
+	g.map_diag(plt.scatter/plt.kdeplot/sns.distplot........anything)
+	g.map_upper(Same above)
+	g.map_lower(Same Above)
+
+2. FacetGrid
+	g = sns.FacetGrid(dataframe, col="Categorical column", row="Categorical column")
+	g.map(sns.distplot, "Column name")
+
+
+-----------------------------
+Regression Plots
+---------------------
+
+1. lmplot
+	sns.lmplot(x=x-axiscolumn, y=y-axiscolumn, data=dataframe, hue=,markers=[], scatter_kws={})
+	sns.lmplot(x=x-axiscolumn, y=y-axiscolumn, data=dataframe, col=)
+
+------------------------------------
+Style and color
+------------------------
+
+sns.set_style('Background', )
+sns.despine()
+sns.set_context("poster", font_scale)
