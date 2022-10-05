@@ -1,0 +1,29 @@
+Steps to be carried out for exploratory data analysis on a dataset
+
+-----------------------------------------
+Step - 1: Data Oerview
+-------------------------------------
+
+1. Have a clear understanding of problem statement
+2. Understand the dataset well. Be aware of every columns in the dataset
+
+---------------------------------------------
+Step - 2: Data Wrangling
+-------------------------------------
+
+1. Check for missing values. If any either drop it or replace it.
+2. Check for the correct data format of each columns that will help to do a better data analysis.
+3. Standardize and normalize data if needed.
+4. Perform binning if required. It is the process of converting numerical data into categorical data
+5. Indicator variables are used to analyse categorical data by converting it into numerical data 
+
+-----------------------------------------------
+Step - 3: Exploratory Data Analysis
+----------------------------------------------
+
+1. When visualizing individual variables, it is important to first understand what type of variable
+ you are dealing with. This will help us find the right visualization method for that variable.
+2. A great way of visualising continous numerical variable is by using scatterplot with fitted lines.
+3. Categorical variables are variables that describe a 'characteristic' of a data unit, and are selected from a small group of categories.
+A good way to visualize categorical variables is by using boxplots.
+4. Find correlation and causation between variables
