@@ -1,0 +1,14 @@
+Syntax to import model
+-----------------------------------
+from sklearn.family import Model
+
+model.fit()
+model.predict()
+model.predict_proba()
+model.score()
+model.transform()
+model.fit_transform()
+
+
+
+

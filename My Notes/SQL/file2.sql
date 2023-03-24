@@ -22,9 +22,9 @@ SELECT * FROM SQL_STORE.CUSTOMERS WHERE FIRST_NAME REGEXP '[a-r]a';
 -- [-] used for range of characters
 
 
--- GET CUSTOMERS WHOSE FIRST NAME STARTS WITH ELKA OR AMBUR
+-- GET CUSTOMERS WHOSE FIRST NAME STARTS WITH EL OR AMBUR
 
-SELECT * FROM sql_store.customers where first_name regexp "^ELKA|^AMBUR";
+SELECT * FROM sql_store.customers where first_name regexp "^EL|^AMBUR";
 
 -- GET CUSTOMERS WHOSE LAST NAME ENDS WITH EY OR ON
 SELECT * FROM sql_store.customers where last_name regexp "EY$" OR last_name REGEXP "ON$";

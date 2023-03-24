@@ -1,0 +1,13 @@
+Bias refers to the errors that occur when a model is too simple and cannot capture the complexity of the underlying data.
+This can result in the model making incorrect assumptions and consistently producing inaccurate predictions.
+
+Variance refers to the errors that occur when a model is too complex and overfits the training data, meaning it is too specific
+to the training data and cannot generalize well to new data. This can result in the model being overly sensitive to noise in the training 
+data and producing inconsistent or unreliable predictions.
+
+The bias-variance tradeoff is the balance between these two types of errors. Ideally, we want a model that has low bias and low variance,
+meaning it is both accurate and generalizable. However, in practice, it can be difficult to achieve this balance, and adjustments may need 
+to be made to reduce one type of error at the expense of the other.
+
+In other words, the bias-variance tradeoff refers to the compromise that must be made between the complexity of a model and its ability 
+to accurately generalize to new data.
