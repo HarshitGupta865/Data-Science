@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+julia,JuliaLang,42000, https://github.com/JuliaLang/julia
+dash,plotly,18500, https://github.com/plotly/dash
+papermill,nteract,5200, https://github.com/nteract/papermill
+Pluto.jl,fonsp,4400, https://github.com/fonsp/Pluto.jl
+datastation,multiprocessio,2700, https://github.com/multiprocessio/datastation
+DifferentialEquations.jl,SciML,2500, https://github.com/SciML/DifferentialEquations.jl
+ESL-CN,szcf-weiya,2200, https://github.com/szcf-weiya/ESL-CN
+faust,grame-cncm,2100, https://github.com/grame-cncm/faust
+Genie.jl,GenieFramework,2000, https://github.com/GenieFramework/Genie.jl
+JuMP.jl,jump-dev,1900, https://github.com/jump-dev/JuMP.jl
+Makie.jl,MakieOrg,1900, https://github.com/MakieOrg/Makie.jl
+Gadfly.jl,GiovineItalia,1800, https://github.com/GiovineItalia/Gadfly.jl
+Plots.jl,JuliaPlots,1700, https://github.com/JuliaPlots/Plots.jl
+MLJ.jl,alan-turing-institute,1600, https://github.com/alan-turing-institute/MLJ.jl
+DataFrames.jl,JuliaData,1600, https://github.com/JuliaData/DataFrames.jl
+Knet.jl,denizyuret,1400, https://github.com/denizyuret/Knet.jl
+Zygote.jl,FluxML,1300, https://github.com/FluxML/Zygote.jl
+PyCall.jl,JuliaPy,1300, https://github.com/JuliaPy/PyCall.jl
+Julia.jl,svaksha,1300, https://github.com/svaksha/Julia.jl
+PackageCompiler.jl,JuliaLang,1300, https://github.com/JuliaLang/PackageCompiler.jl

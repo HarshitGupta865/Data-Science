@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+shellcheck,koalaman,31800, https://github.com/koalaman/shellcheck
+graphql-engine,hasura,29500, https://github.com/hasura/graphql-engine
+pandoc,jgm,28500, https://github.com/jgm/pandoc
+postgrest,PostgREST,20300, https://github.com/PostgREST/postgrest
+compiler-explorer,compiler-explorer,12900, https://github.com/compiler-explorer/compiler-explorer
+milewski-ctfp-pdf,hmemcpy,10100, https://github.com/hmemcpy/milewski-ctfp-pdf
+awesomo,lk-geimfari,8900, https://github.com/lk-geimfari/awesomo
+hadolint,hadolint,8400, https://github.com/hadolint/hadolint
+purescript,purescript,8100, https://github.com/purescript/purescript
+AlgoXY,liuxinyu95,5600, https://github.com/liuxinyu95/AlgoXY
+unison,unisonweb,5100, https://github.com/unisonweb/unison
+ihp,digitallyinduced,3900, https://github.com/digitallyinduced/ihp
+cardano-sl,input-output-hk,3800, https://github.com/input-output-hk/cardano-sl
+xmonad,xmonad,3000, https://github.com/xmonad/xmonad
+simplex-chat,simplex-chat,2800, https://github.com/simplex-chat/simplex-chat
+eta,typelead,2600, https://github.com/typelead/eta
+koka,koka-lang,2500, https://github.com/koka-lang/koka
+wire-server,wireapp,2500, https://github.com/wireapp/wire-server
+wasp,wasp-lang,2500, https://github.com/wasp-lang/wasp
+m2cgen,BayesWitnesses,2500, https://github.com/BayesWitnesses/m2cgen

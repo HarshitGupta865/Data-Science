@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+vue,vuejs,203000, https://github.com/vuejs/vue
+laravel,laravel,73100, https://github.com/laravel/laravel
+django,django,69800, https://github.com/django/django
+gin,gin-gonic,67800, https://github.com/gin-gonic/gin
+spring-boot,spring-projects,66500, https://github.com/spring-projects/spring-boot
+fastapi,tiangolo,56500, https://github.com/tiangolo/fastapi
+nest,nestjs,55800, https://github.com/nestjs/nest
+rails,rails,52600, https://github.com/rails/rails
+spring-framework,spring-projects,51400, https://github.com/spring-projects/spring-framework
+ionic-framework,ionic-team,48900, https://github.com/ionic-team/ionic-framework
+scrapy,scrapy,46800, https://github.com/scrapy/scrapy
+imgui,ocornut,46600, https://github.com/ocornut/imgui
+meteor,meteor,43400, https://github.com/meteor/meteor
+materialize,Dogfalo,38800, https://github.com/Dogfalo/materialize
+dubbo,apache,38700, https://github.com/apache/dubbo
+framework,laravel,29300, https://github.com/laravel/framework
+symfony,symfony,28200, https://github.com/symfony/symfony
+postcss,postcss,27400, https://github.com/postcss/postcss
+slate,ianstormtaylor,26800, https://github.com/ianstormtaylor/slate
+fiber,gofiber,25700, https://github.com/gofiber/fiber

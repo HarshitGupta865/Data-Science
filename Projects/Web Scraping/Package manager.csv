@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+yarn,yarnpkg,41100, https://github.com/yarnpkg/yarn
+brew,Homebrew,35600, https://github.com/Homebrew/brew
+composer,composer,27500, https://github.com/composer/composer
+poetry,python-poetry,24500, https://github.com/python-poetry/poetry
+pnpm,pnpm,23000, https://github.com/pnpm/pnpm
+winget-cli,microsoft,19800, https://github.com/microsoft/winget-cli
+vcpkg,microsoft,18300, https://github.com/microsoft/vcpkg
+bower,bower,15100, https://github.com/bower/bower
+Carthage,Carthage,14800, https://github.com/Carthage/Carthage
+CocoaPods,CocoaPods,14100, https://github.com/CocoaPods/CocoaPods
+dep,golang,13000, https://github.com/golang/dep
+cargo,rust-lang,10200, https://github.com/rust-lang/cargo
+choco,chocolatey,9000, https://github.com/chocolatey/choco
+patch-package,ds300,8400, https://github.com/ds300/patch-package
+nix,NixOS,7900, https://github.com/NixOS/nix
+volta,volta-cli,7800, https://github.com/volta-cli/volta
+antigen,zsh-users,7500, https://github.com/zsh-users/antigen
+cli,npm,7000, https://github.com/npm/cli
+xmake,xmake-io,6900, https://github.com/xmake-io/xmake
+conan,conan-io,6800, https://github.com/conan-io/conan

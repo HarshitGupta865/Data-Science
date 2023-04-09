@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+vagrant,hashicorp,25100, https://github.com/hashicorp/vagrant
+ansible-for-devops,geerlingguy,6800, https://github.com/geerlingguy/ansible-for-devops
+VVV,Varying-Vagrant-Vagrants,4600, https://github.com/Varying-Vagrant-Vagrants/VVV
+DetectionLab,clong,4100, https://github.com/clong/DetectionLab
+bento,chef,4000, https://github.com/chef/bento
+redis-windows,ServiceStack,2700, https://github.com/ServiceStack/redis-windows
+trellis,roots,2400, https://github.com/roots/trellis
+vagrant-libvirt,vagrant-libvirt,2200, https://github.com/vagrant-libvirt/vagrant-libvirt
+infrastructure-as-code-tutorial,Artemmkin,2100, https://github.com/Artemmkin/infrastructure-as-code-tutorial
+shutit,ianmiell,2100, https://github.com/ianmiell/shutit
+ansible-tuto,leucos,2100, https://github.com/leucos/ansible-tuto
+ansible-vagrant-examples,geerlingguy,2000, https://github.com/geerlingguy/ansible-vagrant-examples
+kubernetes-vagrant-centos-cluster,rootsongjc,1900, https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster
+boilerplates,ChristianLempa,1800, https://github.com/ChristianLempa/boilerplates
+magma,magma,1500, https://github.com/magma/magma
+learning-tools,scottslowe,1400, https://github.com/scottslowe/learning-tools
+drupal-vm,geerlingguy,1400, https://github.com/geerlingguy/drupal-vm
+packer-windows,StefanScherer,1100, https://github.com/StefanScherer/packer-windows
+osx-vm-templates,timsutton,1100, https://github.com/timsutton/osx-vm-templates
+image-builder-rpi,hypriot,1100, https://github.com/hypriot/image-builder-rpi

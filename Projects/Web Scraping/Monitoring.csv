@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+netdata,netdata,62500, https://github.com/netdata/netdata
+grafana,grafana,54800, https://github.com/grafana/grafana
+prometheus,prometheus,47500, https://github.com/prometheus/prometheus
+pm2,Unitech,38900, https://github.com/Unitech/pm2
+huginn,huginn,38100, https://github.com/huginn/huginn
+sentry,getsentry,33900, https://github.com/getsentry/sentry
+uptime-kuma,louislam,31900, https://github.com/louislam/uptime-kuma
+influxdb,influxdata,25200, https://github.com/influxdata/influxdb
+glances,nicolargo,22600, https://github.com/nicolargo/glances
+TDengine,taosdata,21100, https://github.com/taosdata/TDengine
+osquery,osquery,20200, https://github.com/osquery/osquery
+DoKit,didi,19400, https://github.com/didi/DoKit
+cat,dianping,17700, https://github.com/dianping/cat
+goaccess,allinurl,16000, https://github.com/allinurl/goaccess
+cilium,cilium,14900, https://github.com/cilium/cilium
+ctop,bcicen,14100, https://github.com/bcicen/ctop
+bettercap,bettercap,13900, https://github.com/bettercap/bettercap
+telegraf,influxdata,12800, https://github.com/influxdata/telegraf
+pinpoint,pinpoint-apm,12700, https://github.com/pinpoint-apm/pinpoint
+signoz,SigNoz,12400, https://github.com/SigNoz/signoz

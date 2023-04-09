@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+next.js,vercel,104000, https://github.com/vercel/next.js
+rust,rust-lang,80000, https://github.com/rust-lang/rust
+svelte,sveltejs,66800, https://github.com/sveltejs/svelte
+webpack,webpack,62900, https://github.com/webpack/webpack
+gatsby,gatsbyjs,54300, https://github.com/gatsbyjs/gatsby
+kotlin,JetBrains,44300, https://github.com/JetBrains/kotlin
+parcel,parcel-bundler,42200, https://github.com/parcel-bundler/parcel
+babel,babel,42100, https://github.com/babel/babel
+esbuild,evanw,35100, https://github.com/evanw/esbuild
+v,vlang,33300, https://github.com/vlang/v
+carbon-lang,carbon-language,30200, https://github.com/carbon-language/carbon-lang
+marked,markedjs,29500, https://github.com/markedjs/marked
+swc,swc-project,26900, https://github.com/swc-project/swc
+pkg,vercel,23100, https://github.com/vercel/pkg
+zig,ziglang,21100, https://github.com/ziglang/zig
+v8,v8,21000, https://github.com/v8/v8
+assemblyscript,AssemblyScript,15400, https://github.com/AssemblyScript/assemblyscript
+typst,typst,15100, https://github.com/typst/typst
+Nim,nim-lang,14900, https://github.com/nim-lang/Nim
+RustPython,RustPython,14700, https://github.com/RustPython/RustPython

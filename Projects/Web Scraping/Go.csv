@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+go,golang,110000, https://github.com/golang/go
+awesome-go,avelino,99500, https://github.com/avelino/awesome-go
+kubernetes,kubernetes,97300, https://github.com/kubernetes/kubernetes
+gin,gin-gonic,67800, https://github.com/gin-gonic/gin
+hugo,gohugoio,66400, https://github.com/gohugoio/hugo
+frp,fatedier,66200, https://github.com/fatedier/frp
+moby,moby,65700, https://github.com/moby/moby
+grafana,grafana,54800, https://github.com/grafana/grafana
+fzf,junegunn,51500, https://github.com/junegunn/fzf
+syncthing,syncthing,50500, https://github.com/syncthing/syncthing
+caddy,caddyserver,46700, https://github.com/caddyserver/caddy
+etcd,etcd-io,43100, https://github.com/etcd-io/etcd
+traefik,traefik,42500, https://github.com/traefik/traefik
+gogs,gogs,41900, https://github.com/gogs/gogs
+go-ethereum,ethereum,41800, https://github.com/ethereum/go-ethereum
+project-layout,golang-standards,38900, https://github.com/golang-standards/project-layout
+minio,minio,38400, https://github.com/minio/minio
+rclone,rclone,37900, https://github.com/rclone/rclone
+leetcode-master,youngyangyang04,37500, https://github.com/youngyangyang04/leetcode-master
+gitea,go-gitea,35800, https://github.com/go-gitea/gitea

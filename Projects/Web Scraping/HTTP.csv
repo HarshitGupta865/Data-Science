@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+hoppscotch,hoppscotch,50800, https://github.com/hoppscotch/hoppscotch
+requests,psf,49300, https://github.com/psf/requests
+caddy,caddyserver,46700, https://github.com/caddyserver/caddy
+trackerslist,ngosang,39000, https://github.com/ngosang/trackerslist
+mitmproxy,mitmproxy,30700, https://github.com/mitmproxy/mitmproxy
+aria2,aria2,29900, https://github.com/aria2/aria2
+curl,curl,29200, https://github.com/curl/curl
+httpie,httpie,27200, https://github.com/httpie/httpie
+hutool,dromara,25900, https://github.com/dromara/hutool
+nps,ehang-io,25300, https://github.com/ehang-io/nps
+vapor,vapor,22700, https://github.com/vapor/vapor
+locust,locustio,21100, https://github.com/locustio/locust
+vegeta,tsenart,21000, https://github.com/tsenart/vegeta
+kratos,go-kratos,20300, https://github.com/go-kratos/kratos
+postgrest,PostgREST,20300, https://github.com/PostgREST/postgrest
+mux,gorilla,18100, https://github.com/gorilla/mux
+uWebSockets,uNetworking,15300, https://github.com/uNetworking/uWebSockets
+httprouter,julienschmidt,15100, https://github.com/julienschmidt/httprouter
+hapi,hapijs,14200, https://github.com/hapijs/hapi
+chi,go-chi,13900, https://github.com/go-chi/chi

@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+etcd,etcd-io,43100, https://github.com/etcd-io/etcd
+meilisearch,meilisearch,35600, https://github.com/meilisearch/meilisearch
+tidb,pingcap,33800, https://github.com/pingcap/tidb
+awesome-cheatsheets,LeCoupa,33100, https://github.com/LeCoupa/awesome-cheatsheets
+sheetjs,SheetJS,32600, https://github.com/SheetJS/sheetjs
+metabase,metabase,32000, https://github.com/metabase/metabase
+dbeaver,dbeaver,31500, https://github.com/dbeaver/dbeaver
+typeorm,typeorm,30900, https://github.com/typeorm/typeorm
+prisma,prisma,30400, https://github.com/prisma/prisma
+interview,huihut,28500, https://github.com/huihut/interview
+cockroach,cockroachdb,26900, https://github.com/cockroachdb/cockroach
+sqlmap,sqlmapproject,26700, https://github.com/sqlmapproject/sqlmap
+influxdb,influxdata,25200, https://github.com/influxdata/influxdb
+rocksdb,facebook,24900, https://github.com/facebook/rocksdb
+mongo,mongodb,23500, https://github.com/mongodb/mongo
+TDengine,taosdata,21100, https://github.com/taosdata/TDengine
+directus,directus,20900, https://github.com/directus/directus
+postgrest,PostgREST,20300, https://github.com/PostgREST/postgrest
+surrealdb,surrealdb,19400, https://github.com/surrealdb/surrealdb
+lowdb,typicode,19300, https://github.com/typicode/lowdb

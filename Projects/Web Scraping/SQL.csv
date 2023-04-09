@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+devops-exercises,bregman-arie,42100, https://github.com/bregman-arie/devops-exercises
+spark,apache,35400, https://github.com/apache/spark
+tidb,pingcap,33800, https://github.com/pingcap/tidb
+dbeaver,dbeaver,31500, https://github.com/dbeaver/dbeaver
+ClickHouse,ClickHouse,27900, https://github.com/ClickHouse/ClickHouse
+sequelize,sequelize,27700, https://github.com/sequelize/sequelize
+cockroach,cockroachdb,26900, https://github.com/cockroachdb/cockroach
+TDengine,taosdata,21100, https://github.com/taosdata/TDengine
+flink,apache,21000, https://github.com/apache/flink
+directus,directus,20900, https://github.com/directus/directus
+postgrest,PostgREST,20300, https://github.com/PostgREST/postgrest
+osquery,osquery,20200, https://github.com/osquery/osquery
+surrealdb,surrealdb,19400, https://github.com/surrealdb/surrealdb
+mybatis-3,mybatis,18400, https://github.com/mybatis/mybatis-3
+shardingsphere,apache,18200, https://github.com/apache/shardingsphere
+knex,knex,17400, https://github.com/knex/knex
+Dapper,DapperLib,16000, https://github.com/DapperLib/Dapper
+cube,cube-js,14900, https://github.com/cube-js/cube
+timescaledb,timescale,14800, https://github.com/timescale/timescaledb
+presto,prestodb,14600, https://github.com/prestodb/presto

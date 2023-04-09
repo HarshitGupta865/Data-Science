@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+devops-exercises,bregman-arie,42100, https://github.com/bregman-arie/devops-exercises
+terraform,hashicorp,36800, https://github.com/hashicorp/terraform
+90DaysOfDevOps,MichaelCade,22300, https://github.com/MichaelCade/90DaysOfDevOps
+microservices-demo,GoogleCloudPlatform,14000, https://github.com/GoogleCloudPlatform/microservices-demo
+terraformer,GoogleCloudPlatform,9900, https://github.com/GoogleCloudPlatform/terraformer
+infracost,infracost,8900, https://github.com/infracost/infracost
+terraform-provider-aws,hashicorp,8400, https://github.com/hashicorp/terraform-provider-aws
+terratest,gruntwork-io,6800, https://github.com/gruntwork-io/terratest
+homelab,khuedoan,6800, https://github.com/khuedoan/homelab
+terragrunt,gruntwork-io,6700, https://github.com/gruntwork-io/terragrunt
+atlantis,runatlantis,6000, https://github.com/runatlantis/atlantis
+tfsec,aquasecurity,5800, https://github.com/aquasecurity/tfsec
+docker-android,budtmo,5600, https://github.com/budtmo/docker-android
+checkov,bridgecrewio,5500, https://github.com/bridgecrewio/checkov
+guide,hobby-kube,5400, https://github.com/hobby-kube/guide
+steampipe,turbot,5100, https://github.com/turbot/steampipe
+KubeOperator,KubeOperator,4600, https://github.com/KubeOperator/KubeOperator
+terraform-cdk,hashicorp,4300, https://github.com/hashicorp/terraform-cdk
+terraforming,dtan4,4300, https://github.com/dtan4/terraforming
+awesome-terraform,shuaibiyy,4200, https://github.com/shuaibiyy/awesome-terraform

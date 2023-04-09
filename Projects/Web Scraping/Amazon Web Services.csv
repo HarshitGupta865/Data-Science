@@ -1,0 +1,21 @@
+Repository Name,Repository Username,Stars Received,Repository URL
+localstack,localstack,46600, https://github.com/localstack/localstack
+serverless,serverless,44500, https://github.com/serverless/serverless
+devops-exercises,bregman-arie,42100, https://github.com/bregman-arie/devops-exercises
+data-science-ipython-notebooks,donnemartin,24900, https://github.com/donnemartin/data-science-ipython-notebooks
+pulumi,pulumi,15600, https://github.com/pulumi/pulumi
+awesome-kubernetes,ramitsurana,13800, https://github.com/ramitsurana/awesome-kubernetes
+kubespray,kubernetes-sigs,13800, https://github.com/kubernetes-sigs/kubespray
+aws-cli,aws,13600, https://github.com/aws/aws-cli
+sst,serverless-stack,13400, https://github.com/serverless-stack/sst
+sops,mozilla,12600, https://github.com/mozilla/sops
+awesome-aws,donnemartin,11400, https://github.com/donnemartin/awesome-aws
+caprover,caprover,10200, https://github.com/caprover/caprover
+cas,apereo,10100, https://github.com/apereo/cas
+aws-cdk,aws,10100, https://github.com/aws/aws-cdk
+terraformer,GoogleCloudPlatform,9900, https://github.com/GoogleCloudPlatform/terraformer
+chalice,aws,9700, https://github.com/aws/chalice
+amplify-js,aws-amplify,9200, https://github.com/aws-amplify/amplify-js
+serverless-application-model,aws,9000, https://github.com/aws/serverless-application-model
+go-cloud,google,9000, https://github.com/google/go-cloud
+infracost,infracost,8900, https://github.com/infracost/infracost
